@@ -1,15 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jrushengodas/ytm-godas/main/assets/logo.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/jrushengodas/ytm-godas/main/assets/logo.jpg" width="220">
 </p>
-# 🎵 YTM Song Request - Godas DEV
 
-Système complet de Song Request YouTube Music pour Streamer.bot.
+<h1 align="center">🎵 YTM Song Request - Godas DEV</h1>
+
+<p align="center">
+  Système complet de Song Request YouTube Music pour Streamer.bot
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-stable-green">
+  <img src="https://img.shields.io/badge/version-1.0-blue">
+</p>
 
 ---
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge)](https://github.com/jrushengodas/ytm-godas/releases)
+<p align="center">
+  <a href="https://github.com/jrushengodas/ytm-godas/releases">
+    <img src="https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -31,7 +43,7 @@ Système complet de Song Request YouTube Music pour Streamer.bot.
 1. Télécharger le setup (bouton ci-dessus)
 2. Installer YouTube Music Desktop
 3. Importer le fichier `.sb` dans Streamer.bot
-4. Configurer les clés API (voir docs)
+4. Configurer les clés API
 5. Lancer :
    ```text
    !godasytm
