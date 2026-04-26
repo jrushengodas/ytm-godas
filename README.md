@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.jpg" width="200">
+</p>
 # 🎵 YTM Song Request - Godas DEV
 
 Système complet de Song Request YouTube Music pour Streamer.bot.
