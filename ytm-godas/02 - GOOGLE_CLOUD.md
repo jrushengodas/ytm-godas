@@ -1,0 +1,62 @@
+GOOGLE CLOUD - CONFIGURATION
+
+1. Aller sur :
+https://console.cloud.google.com/
+
+2. Créer un projet
+
+----------------------------------
+
+3. Activer API YouTube
+
+Menu → API et services → Bibliothèque
+
+Rechercher :
+YouTube Data API v3
+
+Cliquer → Activer
+
+----------------------------------
+
+4. Créer une clé API
+
+API et services → Identifiants → Créer des identifiants → Clé API
+
+Copier :
+youtubeApiKey
+
+----------------------------------
+
+5. Créer OAuth
+
+Créer des identifiants → ID client OAuth
+
+Type :
+Application Web
+
+----------------------------------
+
+6. Ajouter URI
+
+http://127.0.0.1:5000/
+http://localhost:5000/
+
+----------------------------------
+
+7. Copier :
+
+Client ID → youtubeClientId
+Client Secret → youtubeClientSecret
+
+----------------------------------
+
+8. Créer une playlist YouTube
+
+Exemple :
+https://www.youtube.com/playlist?list=XXXX
+
+ID = XXXX
+
+----------------------------------
+
+CONFIG TERMINÉE ✅
