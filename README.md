@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200">
+  <img src="assets/logo.jpg" width="200">
 </p>
 # 🎵 YTM Song Request - Godas DEV
 
