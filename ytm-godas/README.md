@@ -73,11 +73,11 @@ afin d’automatiser entièrement les Song Requests.
 
 ## ⚙️ Documentation
 
-* 📄 [Installation](INSTALLATION.md)
-* 📄 [Google Cloud](GOOGLE_CLOUD.md)
-* 📄 [YTM Desktop](YTM_DESKTOP.md)
-* 📄 [Commandes](COMMANDS.md)
-* 📄 [Crédits](CREDITS.md)
+- 📄 [Installation](ytm-godas/01-INSTALLATION.md)
+- 📄 [Google Cloud](ytm-godas/02-GOOGLE_CLOUD.md)
+- 📄 [YTM Desktop](ytm-godas/03-YTM_DESKTOP.md)
+- 📄 [Commandes](ytm-godas/04-COMMANDS.md)
+- 📄 [Crédits](ytm-godas/05-CREDITS.md)
 
 ---
 
