@@ -25,15 +25,6 @@
   </a>
 </p>
 
----
-
-## 🎬 Aperçu
-
-> 💡 Ajoute ici un screenshot ou un GIF de ton système en action  
-> (ça boost énormément ton repo)
-
----
-
 ## 🚀 Fonctionnalités
 
 - 🎶 Song Request via `!sr` ou reward Twitch  
@@ -72,7 +63,7 @@ afin d’automatiser entièrement les Song Requests.
 7. Tester :
 
 ```text
-!sr nom musique
+!sr nom musique + artiste
 !song
 !next
 !playlist
@@ -108,26 +99,6 @@ afin d’automatiser entièrement les Song Requests.
 ```text
 v1.0 → Release initiale
 ```
-
----
-
-## 🔒 Sécurité
-
-⚠️ Ne partage jamais :
-
-* API Key
-* Client Secret
-* Access Token
-* Refresh Token
-
-Avant de partager ton export Streamer.bot :
-
-```text
-A_REMPLIR
-```
-
----
-
 ## ❤️ Crédits
 
 **Développement :**
