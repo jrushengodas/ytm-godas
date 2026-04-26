@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/jrushengodas/ytm-godas/main/assets/logo.jpg" width="200">
 </p>
 # 🎵 YTM Song Request - Godas DEV
 
