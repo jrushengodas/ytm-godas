@@ -50,3 +50,13 @@
 
 ```text
 !godasytm
+
+---
+
+<p align="center">
+  ⚡ YTM Song Request System  
+  <br>
+  Developed by <strong>Godas DEV</strong>
+  <br><br>
+  ❤️ Thanks for using the project
+</p>
