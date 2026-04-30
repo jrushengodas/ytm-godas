@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/jrushengodas/ytm-godas/main/ytm-godas/assets/logo.jpg" width="400">
 </p>
 
-<h1 align="center">🎵 YTM Song Request - Godas DEV</h1>
+<h1 align="center">🎵 YTM Song Request  Ad-Free - Godas DEV</h1>
 
 <p align="center">
   Système complet de Song Request YouTube Music pour Streamer.bot
